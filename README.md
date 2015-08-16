@@ -8,7 +8,7 @@ Package EventBus is the little and lightweight eventbus with async compatibility
 Make sure that Go is installed on your computer.
 Type the following command in your terminal:
 
-	go get github.com/asaskevich/EventBus
+	go get github.com/asaskevich/EventBuss
 
 After it the package is ready to use.
 
